@@ -1,0 +1,28 @@
+name: Educatia Emotionala
+favicon: null
+layout_spectrum: 0.47794390586204827
+typography_spectrum: 0.3828714396804571
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.10254486743360758
+  lightness: 0.8030499573796988
+  saturation: 0.9702961016446352
+  rhythmicContrast: 0.35385197517462075
+purpose: []
