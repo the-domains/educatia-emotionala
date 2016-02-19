@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Educatia Emotionala ]]></title>
         <description><![CDATA[Educatia Emotionala ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/educatia-emotionala/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 06:49:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 06:49:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/educatia-emotionala/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d9c2914-a7aa-4ddc-973f-1260ff98b6c0.jpg">]]></description>
+            <link>https://thegrid.ai/educatia-emotionala/46ec298e-3a78-488e-a9a4-5dcc21852dd9/index.html</link>
+            <guid isPermaLink="false">46ec298e-3a78-488e-a9a4-5dcc21852dd9</guid>
+            <pubDate>Fri, 19 Feb 2016 06:49:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/872477f5-0af8-4b4d-bcf6-536a5578176d.jpg">]]></description>
-            <link>undefined318b68e9-60ac-4abe-bf6b-439f0497321f/index.html</link>
+            <link>https://thegrid.ai/educatia-emotionala/318b68e9-60ac-4abe-bf6b-439f0497321f/index.html</link>
             <guid isPermaLink="false">318b68e9-60ac-4abe-bf6b-439f0497321f</guid>
             <pubDate>Fri, 19 Feb 2016 06:49:18 GMT</pubDate>
         </item>
