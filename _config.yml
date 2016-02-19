@@ -1,6 +1,6 @@
 name: Educația Emoțională
 favicon: null
-layout_spectrum: 0.47794390586204827
+layout_spectrum: 1
 typography_spectrum: 0.3828714396804571
 title: 'Educația Emoțională '
 cta:
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.10254486743360758
-  lightness: 0.8030499573796988
-  saturation: 0.9702961016446352
-  rhythmicContrast: 0.35385197517462075
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
