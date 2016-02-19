@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Educația Emoțională ]]></title>
-        <description><![CDATA[Educația Emoțională ]]></description>
+        <title><![CDATA[Educatia Emotionala ]]></title>
+        <description><![CDATA[Educatia Emotionala ]]></description>
         <link>https://thegrid.ai/educatia-emotionala/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 12:53:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 13:48:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/educatia-emotionala/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/822b6e1a-16c1-4046-95df-3079f07374af.jpg">]]></description>
+            <link>https://thegrid.ai/educatia-emotionala/68c65462-afc9-4a0f-b6ae-689a2207128e/index.html</link>
+            <guid isPermaLink="false">68c65462-afc9-4a0f-b6ae-689a2207128e</guid>
+            <pubDate>Fri, 19 Feb 2016 13:47:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d9c2914-a7aa-4ddc-973f-1260ff98b6c0.jpg">]]></description>
